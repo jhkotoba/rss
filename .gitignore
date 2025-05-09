@@ -3,7 +3,6 @@
 *.pem
 
 .mvn/wrapper
-*.yml
 
 *.class
 *.dll
