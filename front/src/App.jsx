@@ -1,5 +1,6 @@
 import React from 'react';
 import { Routes, Route, Link } from 'react-router-dom';
+import './App.css';
 import ItemList from './components/ItemList';
 import ItemForm from './components/ItemForm';
 
